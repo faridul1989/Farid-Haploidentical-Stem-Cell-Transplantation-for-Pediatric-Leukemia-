@@ -145,14 +145,16 @@ Copi, C.J. et al. (2007). Uncorrelated Universe: Statistical Anisotropy and the 
 \bibitem{Newton1687}
 Newton, I. (1687). \textit{Philosophiae Naturalis Principia Mathematica}.MIT License
 
-MIT License
+MIT License (Adapted for Medical Innovation & Research)  
+Copyright (c) 2025 Tanfarid Vision Research Institute  
 
-Copyright (c) 2025 Tanfarid Vision Research Institute
+Permission is hereby granted, free of charge, to any person obtaining a copy of this research article, data, and associated documentation files (the "Work"), to deal in the Work without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or apply the Work in clinical or research settings, subject to the following conditions:  
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Work.  
+2. Proper credit must be given to **Prof. Dr. Md. Faridul Islam Chowdhury and the Tanfarid Vision Research Institute** in any derivative works, publications, or clinical adaptations.  
+3. The Work may only be applied in accordance with recognized ethical standards of medical research and patient care, including informed consent and safety oversight.  
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.  
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 \end{document}
